@@ -1,0 +1,10 @@
+
+streamlit==1.60.0
+pymupdf
+scikit-learn
+numpy
+pandas
+reportlab
+plotly
+requests
+joblib
